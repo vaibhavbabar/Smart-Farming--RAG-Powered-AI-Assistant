@@ -1,0 +1,1 @@
+# Smart-Farming--RAG-Powered-AI-Assistant
